@@ -8,5 +8,5 @@ All copyrights of this dataset belong to the original dataset creators.
 * HateScore: https://github.com/sgunderscore/hatescore-korean-hate-speech
 * COLD: https://github.com/thu-coai/COLDataset
 * CCL25-Eval10: https://github.com/DUTIR-Emotion-Group/CCL2025-Chinese-Hate-Speech-Detection
-Please comply with the license terms when using the code, model, or dataset above.
+<br> Please comply with the license terms when using the code, model, or dataset above.
 The content of this dataset does not reflect my opinions.
